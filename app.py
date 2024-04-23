@@ -275,7 +275,7 @@ elif select== "Delete":
       st.write("")
       st.write("")
 
-      remove = st.button("Delete", use_container_width= True)
+      remove = st.button("Delete")
 
       if remove:
 
